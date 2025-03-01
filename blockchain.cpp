@@ -1,3 +1,10 @@
+// Imports to make our lifes easier
+// 1. iostream: Standard input/output stream
+// 2. vector: Dynamic array
+// 3. ctime: Date and time utilities
+// 4. sstream: String stream
+// 5. iomanip: Input/output manipulators
+// 6. openssl/sha.h: SHA-256 hash function
 #include <iostream>
 #include <vector>
 #include <ctime>
